@@ -1,0 +1,9 @@
+Buenas
+siguiendo el ejemplo del profe
+
+Este archivo lo cree en el repositorio remoto
+
+aqui va nuestro codigo
+
+a=4
+b=5
